@@ -155,7 +155,7 @@ eight thousand：8000
 
 **billion**：十亿
 
-![image-20241222192641868](./images/%E6%95%B0%E8%AF%8D.assets/image-20241222192641868.png)
+![image-20241222192641868](./images/c.%E6%95%B0%E8%AF%8D.assets/image-20241222192641868.png)
 
 为了方便阅读，3546 一般会写为 3,546。
 
@@ -177,7 +177,7 @@ eight thousand：8000
 
 一个很大的数字，只要**按三位划分好几段**，**从左侧开始**读出**该段的数字**以及**该段的单位**，再继续**往右阅读下一段**。
 
-![image-20241222193517020](./images/%E6%95%B0%E8%AF%8D.assets/image-20241222193517020.png)
+![image-20241222193517020](./images/c.%E6%95%B0%E8%AF%8D.assets/image-20241222193517020.png)
 
 **478873467823** 可以划分为 **478,873,467,823**，即 **478 十亿，873 百万，467 千，823（无单位）**。
 
@@ -459,7 +459,7 @@ $$
 
 **整数和小数点之间**使用 **point 分割**，**整数部分**使用**基数写法**，**小数部分按顺序**写出**个位基数词**。
 
-![image-20241222210342926](./images/%E6%95%B0%E8%AF%8D.assets/image-20241222210342926.png)
+![image-20241222210342926](./images/c.%E6%95%B0%E8%AF%8D.assets/image-20241222210342926.png)
 
 one point three four
 
@@ -479,7 +479,7 @@ twelve point eight nine six
 
 **百分数**就是**基数词后接百分号（%，percent）**。
 
-![image-20241222210545820](./images/%E6%95%B0%E8%AF%8D.assets/image-20241222210545820.png)
+![image-20241222210545820](./images/c.%E6%95%B0%E8%AF%8D.assets/image-20241222210545820.png)
 
 twenty-five **percent**
 
@@ -641,7 +641,7 @@ ten to eight
 
 December 12th, 2020
 
-![image-20241222212919674](./images/%E6%95%B0%E8%AF%8D.assets/image-20241222212919674.png)
+![image-20241222212919674](./images/c.%E6%95%B0%E8%AF%8D.assets/image-20241222212919674.png)
 
 
 

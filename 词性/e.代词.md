@@ -282,7 +282,7 @@ The rabbit will kill **himself**. *兔子会自杀。*
 
 
 
-![image-20241121214751479](./images/d.%E4%BB%A3%E8%AF%8D.assets/image-20241121214751479.png)
+![image-20241121214751479](./images/e.%E4%BB%A3%E8%AF%8D.assets/image-20241121214751479.png)
 
 **a few** 和 **a little** 表示“有一些”，具有**肯定**含义：
 

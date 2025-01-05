@@ -10,7 +10,7 @@ a **hungry** rabbit.
 
 - 一只饿了的兔子。
 
-![image-20241224082511812](./images/%E5%BD%A2%E5%AE%B9%E8%AF%8D.assets/image-20241224082511812.png)
+![image-20241224082511812](./images/d.%E5%BD%A2%E5%AE%B9%E8%AF%8D.assets/image-20241224082511812.png)
 
 当多个形容词（不加连词）做前置定语时，还需要考虑顺序问题。
 
@@ -55,7 +55,7 @@ a **white little** rabbit.
 
 英文形容词顺序往往和中文不同。
 
-![image-20241224084034208](./images/%E5%BD%A2%E5%AE%B9%E8%AF%8D.assets/image-20241224084034208.png)
+![image-20241224084034208](./images/d.%E5%BD%A2%E5%AE%B9%E8%AF%8D.assets/image-20241224084034208.png)
 
 
 
@@ -121,7 +121,7 @@ the rabbit **that is busy eating carrots**.
 
 The rabbit **is** hungry. 中的 is 是系动词，将 **is 后面的形容词 hungry** 赋予给 **is 前面的名词**，**系动词前面**的 **the rabbit 是主语**，**系动词后面**的 **hungry 用来补充说明主语的性质**，即**表语**。
 
-![image-20241224090259982](./images/%E5%BD%A2%E5%AE%B9%E8%AF%8D.assets/image-20241224090259982.png)
+![image-20241224090259982](./images/d.%E5%BD%A2%E5%AE%B9%E8%AF%8D.assets/image-20241224090259982.png)
 
 
 
@@ -189,7 +189,7 @@ Carrots make rabbits happy.
 
 形容词 **happy 做宾语补语**，补充说明了 宾语 rabbits 的状态。
 
-![image-20241224091751504](./images/%E5%BD%A2%E5%AE%B9%E8%AF%8D.assets/image-20241224091751504.png)
+![image-20241224091751504](./images/d.%E5%BD%A2%E5%AE%B9%E8%AF%8D.assets/image-20241224091751504.png)
 
 
 

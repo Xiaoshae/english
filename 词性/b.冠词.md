@@ -1,6 +1,6 @@
 # 冠词
 
-![image-20241127195203259](./images/%E5%86%A0%E8%AF%8D.assets/image-20241127195203259.png)
+![image-20241127195203259](./images/b.%E5%86%A0%E8%AF%8D.assets/image-20241127195203259.png)
 
 ## 不定冠词
 

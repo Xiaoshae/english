@@ -82,7 +82,7 @@ with：和；...
 
 **短语介词的构成多种多样，如：**
 
-![image-20241218101533839](./images/%E4%BB%8B%E8%AF%8D.assets/image-20241218101533839.png)
+![image-20241218101533839](./images/f.%E4%BB%8B%E8%AF%8D.assets/image-20241218101533839.png)
 
 
 
@@ -267,19 +267,19 @@ in、on 和 at 都能前置于**时间和空间**前，表达相关含义。
 
 **in** 一般是在一堆东西中间，或者说上下左右都能移动，说明是在一个大范围内。
 
-![image-20241218203151002](./images/%E4%BB%8B%E8%AF%8D.assets/image-20241218203151002.png)
+![image-20241218203151002](./images/f.%E4%BB%8B%E8%AF%8D.assets/image-20241218203151002.png)
 
 
 
 **on** 一般表示为”在 ... 之上“，说明有一面确定了，只能在这个平面上移动，范围小一点。
 
-![image-20241218203301363](./images/%E4%BB%8B%E8%AF%8D.assets/image-20241218203301363.png)
+![image-20241218203301363](./images/f.%E4%BB%8B%E8%AF%8D.assets/image-20241218203301363.png)
 
 
 
 **at** 通常只能在很明确的一点上。
 
-![image-20241218203319676](./images/%E4%BB%8B%E8%AF%8D.assets/image-20241218203319676.png)
+![image-20241218203319676](./images/f.%E4%BB%8B%E8%AF%8D.assets/image-20241218203319676.png)
 
 
 
@@ -1085,7 +1085,7 @@ at a fast rate.
 
 以一个很快的速率（点）。
 
-![image-20241219212433397](./images/%E4%BB%8B%E8%AF%8D.assets/image-20241219212433397.png)
+![image-20241219212433397](./images/f.%E4%BB%8B%E8%AF%8D.assets/image-20241219212433397.png)
 
 
 
@@ -1321,4 +1321,4 @@ ready for 准备...
 
 许多短语介词需要特殊的去记忆（死记硬背）。
 
-![image-20241219220415699](./images/%E4%BB%8B%E8%AF%8D.assets/image-20241219220415699.png)
+![image-20241219220415699](./images/f.%E4%BB%8B%E8%AF%8D.assets/image-20241219220415699.png)

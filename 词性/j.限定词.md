@@ -37,10 +37,10 @@
 
 **限定词（词类划分）示例：**
 
- ![image-20250105105409988](./images/h.%E9%99%90%E5%AE%9A%E8%AF%8D.assets/image-20250105105409988.png)
+ ![image-20250105105409988](./images/j.%E9%99%90%E5%AE%9A%E8%AF%8D.assets/image-20250105105409988.png)
 
 
 
 **限定词（位置划分）示例：**
 
-![image-20250105110354093](./images/h.%E9%99%90%E5%AE%9A%E8%AF%8D.assets/image-20250105110354093.png)
+![image-20250105110354093](./images/j.%E9%99%90%E5%AE%9A%E8%AF%8D.assets/image-20250105110354093.png)

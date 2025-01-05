@@ -1,8 +1,8 @@
 # 副词
 
-![image-20241224215944401](./images/%E5%89%AF%E8%AF%8D.assets/image-20241224215944401.png)
+![image-20241224215944401](./images/g.%E5%89%AF%E8%AF%8D.assets/image-20241224215944401.png)
 
-![image-20241224220001128](./images/%E5%89%AF%E8%AF%8D.assets/image-20241224220001128.png)
+![image-20241224220001128](./images/g.%E5%89%AF%E8%AF%8D.assets/image-20241224220001128.png)
 
 从两方面学习副词，一是**副词修饰哪些词性**，二是**副词在句子中可以作哪些成分**。
 
@@ -156,7 +156,7 @@ Let me **out** !
 
 ## 副词的形式
 
-![image-20241224211223688](./images/%E5%89%AF%E8%AF%8D.assets/image-20241224211223688.png)
+![image-20241224211223688](./images/g.%E5%89%AF%E8%AF%8D.assets/image-20241224211223688.png)
 
 ### 同形同义
 

@@ -1,6 +1,6 @@
 # 连词
 
-![image-20241225160504548](./images/f.%E8%BF%9E%E8%AF%8D.assets/image-20241225160504548.png)
+![image-20241225160504548](./images/h.%E8%BF%9E%E8%AF%8D.assets/image-20241225160504548.png)
 
 ## 并列连词
 
@@ -128,7 +128,7 @@ The rabbit will skip lunch, **for** he is busy making a video.
 
 ## 从属连词
 
-![image-20241225155423175](./images/f.%E8%BF%9E%E8%AF%8D.assets/image-20241225155423175.png)
+![image-20241225155423175](./images/h.%E8%BF%9E%E8%AF%8D.assets/image-20241225155423175.png)
 
 **从属连词**用于**连接英文的主句和从句**。
 
